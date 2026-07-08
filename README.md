@@ -8,7 +8,7 @@ a fictional company, Alpha Enterprises. Covers switching, routing,
 redundancy, services, WAN connectivity, and security hardening.
 
 # Topology
-uploaded on the files ,can open it via cisco packet tracer
+[Network topology](cisco.png)
 
 # Addressing Scheme
 
